@@ -40,10 +40,7 @@ const App = () => {
         </SafeAreaView>
     )
 }
-/**
- * 1) Stok durumunu belirtmeniz
- * 2) <SearchBar onSearch={...} />
- */
+
 export default App;
 const styles = StyleSheet.create({
     banner: {
